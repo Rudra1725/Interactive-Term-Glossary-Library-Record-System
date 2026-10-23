@@ -38,14 +38,18 @@ Managing reference documentation and physical asset logs typically requires stru
 
 ---
 
-## 📁 Repository Structure
+## 🚀 Getting Started
 
-```text
-interactive-glossary-library/
-│
-├── main.py                   # CustomTkinter GUI application & management logic
-├── requirements.txt          # Python package dependencies
-├── README.md                 # Project documentation
-├── .gitignore                # Ignored files (venv, cache, IDE configs)
-│
-└── assets/                   # Project screenshots and demo previews
+### Prerequisites
+
+* Python 3.8 or higher installed
+* `customtkinter` package
+
+### Setup & Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/interactive-glossary-library.git](https://github.com/your-username/interactive-glossary-library.git)
+   cd interactive-glossary-library
+---
+
